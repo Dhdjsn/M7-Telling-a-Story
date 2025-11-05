@@ -95,7 +95,7 @@ unique_name_in_owner = true
 layout_mode = 2
 text = "Sad"
 
-[node name="ButttonHappy" type="Button" parent="VBoxContainer/HBoxContainer2"]
+[node name="ButtonHappy" type="Button" parent="VBoxContainer/HBoxContainer2"]
 unique_name_in_owner = true
 layout_mode = 2
 text = "Happy"

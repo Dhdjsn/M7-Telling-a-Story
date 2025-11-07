@@ -14,17 +14,17 @@ var bodies := {
 var dialogue_items: Array[Dictionary] = [
 	{
 		"expression": expressions["regular"],
-		"text": "I love my cat",
+		"text": "I [wave][rainbow val=1.0]love[/rainbow][/wave] my [shake]cat[/shake]",
 		"character": bodies["sophia"],
 	},
 	{
 		"expression": expressions["happy"],
-		"text": "He's pretty cool",
+		"text": "[wave]He's pretty cool[/wave]",
 		"character": bodies["pink"],
 	},
 	{
 		"expression": expressions["sad"],
-		"text": "He does act like a little demon sometimes",
+		"text": "[tornado freq=2.0]He does act like a little demon sometimes[/tornado]",
 		"character": bodies["sophia"],
 	},
 ]

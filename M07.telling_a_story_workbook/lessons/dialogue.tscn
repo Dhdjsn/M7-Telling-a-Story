@@ -81,6 +81,7 @@ offset_left = 41.0
 offset_top = 525.0
 offset_right = -237.0
 offset_bottom = -479.0
+bbcode_enabled = true
 text = "hey..."
 fit_content = true
 
